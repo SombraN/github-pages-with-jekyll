@@ -1,4 +1,4 @@
 ---
-Título: "Bienvenido a mi blog"
-Fecha: 2022-01-12
+title: "Bienvenido a mi blog"
+date: 2022-01-12
 ---
